@@ -1,8 +1,8 @@
 
-import CurrencyConverter from '../components/CurrencyConverter';
+import FitnessTracker from '../components/FitnessTracker';
 
 const Index = () => {
-  return <CurrencyConverter />;
+  return <FitnessTracker />;
 };
 
 export default Index;
